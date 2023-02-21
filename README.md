@@ -4,7 +4,7 @@
 class Portfolio:
     def __init__(self):
         self.skills = ["Python", "Javascript", "Golang"]
-        self.creations = ["Keragation", "Cyra"]
+        self.creations = ["Keragation", "Kprox"]
 
 if __name__ == "__main__":
     portfolio = Portfolio()
